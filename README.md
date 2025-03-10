@@ -24,80 +24,80 @@ The repository is organized into folders and files to make it easy for you to fo
 
 JavaScript-Basics-Injaz/
 ├── Chapter-1-JavaScript-Data-Handling/
-│ ├── 1-Declaring Variables
-│ ├── 2-Constants
-│ ├── 3-Basic Data Types
-│ ├── 4-Dynamic Typing
-│ ├── 5-Objects
-│ ├── 6-Arrays
-│ ├── 7-Functions
-│ └── 8-Different Function Types
+│   ├── 1-Declaring Variables
+│   ├── 2-Constants
+│   ├── 3-Basic Data Types
+│   ├── 4-Dynamic Typing
+│   ├── 5-Objects
+│   ├── 6-Arrays
+│   ├── 7-Functions
+│   └── 8-Different Function Types
 ├── Chapter-2-JavaScript-Operators/
-│ ├── 1-Understanding-Operators
-│ ├── 2-Math-Operators.
-│ ├── 3-Assignment-Operator
-│ ├── 4-Comparison-Operators
-│ ├── 5-Equality-Operators
-│ ├── 6-Conditional-Ternary-Operator
-│ ├── 7-Logical-Operators-Explained
-│ ├── 8-Logical-Operators-Non-Boolean-Values
-│ └── 9-Operator-Priority
+│   ├── 1-Understanding-Operators
+│   ├── 2-Math-Operators
+│   ├── 3-Assignment-Operator
+│   ├── 4-Comparison-Operators
+│   ├── 5-Equality-Operators
+│   ├── 6-Conditional-Ternary-Operator
+│   ├── 7-Logical-Operators-Explained
+│   ├── 8-Logical-Operators-Non-Boolean-Values
+│   └── 9-Operator-Priority
 ├── Chapter-3-Control-Structures/
-│ ├── 1-If-Else
-│ ├── 2-Switch
-│ ├── 3-For-Loops
-│ ├── 4-While-Loops
-│ ├── 5-Do-While-Loops
-│ ├── 6-Handling-Infinite-Loops
-│ ├── 7-For-in-Loops
-│ ├── 8-For-of-Loops
-│ ├── 9-Break-and-Continue
-│ ├── Exercise-1-Max-of-Two-Numbers
-│ ├── Exercise-2-FizzBuzz
-│ └── Exercise-3-Identifying-Even-and-Odd-Numbers
+│   ├── 1-If-Else
+│   ├── 2-Switch
+│   ├── 3-For-Loops
+│   ├── 4-While-Loops
+│   ├── 5-Do-While-Loops
+│   ├── 6-Handling-Infinite-Loops
+│   ├── 7-For-in-Loops
+│   ├── 8-For-of-Loops
+│   ├── 9-Break-and-Continue
+│   ├── Exercise-1-Max-of-Two-Numbers
+│   ├── Exercise-2-FizzBuzz
+│   └── Exercise-3-Identifying-Even-and-Odd-Numbers
 ├── Chapter-4-JavaScript-Objects/
-│ ├── 1-Creating-Objects-with-Literals
-│ ├── 2-Factory-Functions
-│ ├── 3-Constructor-Functions
-│ ├── 4-Objects-are-Dynamic
-│ ├── 5-Constructor-Property
-│ ├── 6-Functions-are-Objects
-│ ├── 7-Value-vs-Reference-Types
-│ ├── 8-Enumerating-Properties
-│ ├── 9-Cloning-an-Object
-│ ├── 10-Garbage-Collection
-│ ├── 11-Math-Functions
-│ ├── 12-String-Methods
-│ ├── 13-Template-Literals
-│ └── 14-Date-Object.js
+│   ├── 1-Creating-Objects-with-Literals
+│   ├── 2-Factory-Functions
+│   ├── 3-Constructor-Functions
+│   ├── 4-Objects-are-Dynamic
+│   ├── 5-Constructor-Property
+│   ├── 6-Functions-are-Objects
+│   ├── 7-Value-vs-Reference-Types
+│   ├── 8-Enumerating-Properties
+│   ├── 9-Cloning-an-Object
+│   ├── 10-Garbage-Collection
+│   ├── 11-Math-Functions
+│   ├── 12-String-Methods
+│   ├── 13-Template-Literals
+│   └── 14-Date-Object
 ├── Chapter-5-JavaScript-Arrays/
-│ ├── 1-Intro-to-Arrays
-│ ├── 2-Adding-Data-to-Arrays
-│ ├── 3-Finding-Elements-Primitives
-│ ├── 4-Finding-Elements-Reference-Types
-│ ├── 5-Arrow-Functions
-│ ├── 6-Removing-Elements
-│ ├── 7-Clearing-an-Array
-│ ├── 8-Merging-and-Slicing-Arrays
-│ ├── 9-Spread-Operator
-│ ├── 10-Iterating-an-Array
-│ ├── 11-Joining-Arrays
-│ ├── 12-Sorting-Arrays
-│ ├── 13-Testing-Elements
-│ ├── 14-Filtering-an-Array
-│ ├── 15-Mapping-an-Array
-│ └── 16-Reducing-an-Array
+│   ├── 1-Intro-to-Arrays
+│   ├── 2-Adding-Data-to-Arrays
+│   ├── 3-Finding-Elements-Primitives
+│   ├── 4-Finding-Elements-Reference-Types
+│   ├── 5-Arrow-Functions
+│   ├── 6-Removing-Elements
+│   ├── 7-Clearing-an-Array
+│   ├── 8-Merging-and-Slicing-Arrays
+│   ├── 9-Spread-Operator
+│   ├── 10-Iterating-an-Array
+│   ├── 11-Joining-Arrays
+│   ├── 12-Sorting-Arrays
+│   ├── 13-Testing-Elements
+│   ├── 14-Filtering-an-Array
+│   ├── 15-Mapping-an-Array
+│   └── 16-Reducing-an-Array
 ├── Chapter-6-JavaScript-Functions/
-│ ├── 1-Function-Declarations-vs-Expressions
-│ ├── 2-Hoisting
-│ ├── 3-Arguments
-│ ├── 4-Rest-Operator
-│ ├── 5-Default-Parameters
-│ ├── 6-Getters-and-Setters
-│ ├── 7-Try-and-Catch
-│ ├── 8-Local-vs-Global-Scope
-│ ├── 9-Let-vs-Var
-│ └── 10-The-this-Keyword
+│   ├── 1-Function-Declarations-vs-Expressions
+│   ├── 2-Hoisting
+│   ├── 3-Arguments
+│   ├── 4-Rest-Operator
+│   ├── 5-Default-Parameters
+│   ├── 6-Getters-and-Setters
+│   ├── 7-Try-and-Catch
+│   ├── 8-Local-vs-Global-Scope
+│   ├── 9-Let-vs-Var
+│   └── 10-The-this-Keyword
 
 
 ---
