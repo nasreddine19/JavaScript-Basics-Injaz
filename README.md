@@ -1,9 +1,10 @@
-# JavaScript Basics Course - Injaz Club
+# JavaScript Basics Course - Injaz Club(University of Djelfa)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="150">
+<img src="https://www2.0zz0.com/2025/03/10/08/580135513.png" alt="Injaz Club Logo" width="150">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_uzad.png" alt="University of Djelfa Logo" width="150">
 
-
-Welcome to the **JavaScript Basics Course**! This repository contains all the materials and resources for the course organized by **Injaz Club** and created by **Nasreddine BOUDELLAL**. Whether you're a complete beginner or looking to refresh your skills, this course will help you learn the fundamentals of JavaScript programming step by step.
+Welcome to the **JavaScript Basics Course**! This repository contains all the materials and resources for the course organized by **Injaz Club(University of Djelfa)** and created by **Nasreddine BOUDELLAL**. Whether you're a complete beginner or looking to refresh your skills, this course will help you learn the fundamentals of JavaScript programming step by step.
 
 ---
 
