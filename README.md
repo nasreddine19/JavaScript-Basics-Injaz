@@ -21,7 +21,7 @@ This course is designed to teach you **JavaScript from the ground up**. By the e
 ## 🗂️ Repository Structure
 
 The repository is organized into folders and files to make it easy for you to follow along:
-
+```
 JavaScript-Basics-Injaz/
 ├── Chapter-1-JavaScript-Data-Handling/
 │   ├── 1-Declaring Variables
@@ -98,7 +98,7 @@ JavaScript-Basics-Injaz/
 │   ├── 8-Local-vs-Global-Scope
 │   ├── 9-Let-vs-Var
 │   └── 10-The-this-Keyword
-
+```
 
 ---
 
