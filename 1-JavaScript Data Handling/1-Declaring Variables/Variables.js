@@ -27,6 +27,7 @@ colorName = 'Crimson' // This Part Called the Assignment
 let userName = 'Nasreddine'; // Initialization and assignment in one step
 let score = 100;
 
+
 /**
  * Important Notes: 
     1- Variable Name cannot start with numbers or contain spaces.

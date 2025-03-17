@@ -2,6 +2,7 @@
  * In JavaScript, logical operators can work with non-boolean values.
  */
 
+
 /* AND(&&) 
     If the first value is truthy, it returns the second value. 
     If the first value is falsy, it returns the first value.*/ 

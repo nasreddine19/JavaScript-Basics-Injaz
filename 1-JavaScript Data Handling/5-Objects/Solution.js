@@ -1,4 +1,5 @@
 /** Solution: */
+
 let book = {
     title: 'Code Complete (2nd Edition)',
     author: 'Steve McConnell',

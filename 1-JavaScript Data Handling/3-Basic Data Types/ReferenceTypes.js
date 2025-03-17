@@ -19,6 +19,7 @@ function hi() {
 
 hi()
 
+
 /**
  * Key Points About Reference Types:
     1- They are mutable (can be changed).

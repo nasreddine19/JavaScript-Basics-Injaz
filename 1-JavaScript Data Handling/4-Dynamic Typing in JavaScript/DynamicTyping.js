@@ -3,6 +3,7 @@
         In JavaScript, variables can hold different types of data (like numbers, text, etc.) 
         without you needing to specify the type in advance. This is called dynamic typing.
  */
+
 // Example:
 let age = 22 // age is a number
 let userName = 'Nasreddine' // userName is a String (text)

@@ -43,6 +43,7 @@ let id = Symbol('1235562')
 console.log(id) // Symbol('1235562')
 
 
+
 /*
     Key Points About Primitive Types:
         1- They are immutable (cannot be changed).

@@ -5,6 +5,7 @@
     - If a function doesn’t have a return statement, it will return undefined by default.
  */
 
+    
 // Example:
 
 // Function with return:

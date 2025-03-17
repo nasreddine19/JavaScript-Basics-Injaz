@@ -4,6 +4,7 @@
     Functions can use variables to store and process data. 
  */
 
+    
 // Example:
 function great(userName){
     console.log('Hi There' + ' ' + userName)

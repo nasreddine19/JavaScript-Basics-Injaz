@@ -4,6 +4,7 @@
     Each item in the array has a number called an index (starting from 0).
  */
 
+    
 // Example:
 let colors = ['red', 'crimson', 'purple']
 let firstItem = colors[0] // Acces the first item

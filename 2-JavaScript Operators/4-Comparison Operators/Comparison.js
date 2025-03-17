@@ -2,6 +2,7 @@
  * Comparison operators are used to compare two values. They return true or false.
  */
 
+
 // Greater than (>)
 let greaterThan = 10 > 3 // true
 

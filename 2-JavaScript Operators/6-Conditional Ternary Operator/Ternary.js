@@ -6,5 +6,6 @@
     3- A value if the condition is false
  */
 
+    
 let age = 21
 let isAdult = age >= 19 ? 'Yes' : 'No' // isAdult is 'Yes'

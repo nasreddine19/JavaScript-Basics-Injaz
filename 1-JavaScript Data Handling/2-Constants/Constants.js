@@ -13,6 +13,7 @@ It is used for values that should stay the same throughout the program.
 const PI = 3.14 // This creates a constant called "PI" and stores the value 3.14.
 const PEN_COLOR = 'Black' // This creates a constant called "PEN_COLOR" and stores the value Black.
 
+
 /**
  * Important Notes:
     1- You cannot change the value of a constant after it is declared.
