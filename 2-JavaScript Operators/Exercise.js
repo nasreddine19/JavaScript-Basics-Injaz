@@ -57,6 +57,7 @@ let finalResult = (netIncome + 100) * 2 > 1500 ? "High" : "Low"; // Calculate fi
 
 console.log("Net Income:", netIncome); // 510
 console.log("Is Profitable?", isProfitable); // true
+console.log("Is Expensive?", isExpensive); // false
 console.log("Is Income Equal (Loose)?", isIncomeEqual); // true
 console.log("Is Income Equal (Strict)?", isIncomeStrictEqual); // false
 console.log("Status:", statuus); // "Good"
