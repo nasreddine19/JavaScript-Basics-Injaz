@@ -4,11 +4,9 @@
  */
 
 // Example
-let userInput = '';
+let count = 1;
 
-while (userInput !== 'quit') {
-  userInput = prompt("Enter something (type 'quit' to exit):");
-  console.log("You entered: " + userInput);
+while (count <= 5) {
+  console.log("Count: " + count);
+  count++;
 }
-
-console.log('You have quit the program.');
